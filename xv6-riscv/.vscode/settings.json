@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "exception": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp",
+        "locale": "cpp"
+    }
+}
